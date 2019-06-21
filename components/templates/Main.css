@@ -1,0 +1,29 @@
+main > div{
+    display: block ;
+    padding: 40rem;
+    width: 20rem;
+    height: 20rem;
+    grid: none;
+
+}
+main > .card{
+    height: 6rem;
+    width: 4rem;
+    border: 1px solid black;
+    display: flex;
+}
+main > .fotodecima{
+
+    width: 10rem;
+    height: 10rem;
+    z-index: 1;
+}
+.preco{
+
+    margin-left: 2rem;
+}
+.butao{
+    position: relative;
+    top: 17rem;
+    left: 2rem;
+}
